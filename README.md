@@ -1,2 +1,18 @@
-# church_website
-🌐 Hmong First Baptist Church Website — A modern, mobile-friendly church website for Hmong First Baptist Church in Milwaukee, WI. Built with HTML, CSS, and JavaScript, the site highlights worship service times, ministries, events, and contact information. Includes Google Maps integration, responsive navigation, and a simple contact form.
+# Hmong First Baptist Church Website
+
+This is a fully responsive front-end website for **Hmong First Baptist Church**, located at 6693 N 99th St, Milwaukee, WI 53224.  
+
+## Features
+- Mobile-first responsive design
+- Service times and location details
+- About section with church history and affiliations
+- Ministries overview
+- Events listing
+- Contact form with email integration
+- Google Maps embed
+- Links to Facebook livestreams
+
+## Tech Stack
+- HTML5
+- CSS3 (custom styles)
+- JavaScript (for navigation toggle and contact form)
